@@ -17,5 +17,5 @@ async def merhaba(ctx):
     await ctx.send(f'Selam {ctx.author.mention}! Artık 7/24 aktifim.')
 
 # Render üzerinden çalışması için güvenli yöntem
-token = os.getenv('DISCORD_TOKEN')
+token = os.getenv('MTQ4MjY2NTUzMDA5MDU4NjE5Mg.GU2tj5.0P00WydvmD852Na4Pk-AWGVcnV5a18hx6FOkdc')
 bot.run(token)
